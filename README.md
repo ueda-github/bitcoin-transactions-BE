@@ -41,13 +41,8 @@ Objectives
  
 Description
 
-This RESTful API software architecture integration application is implemented using
-Angular 12 and .NET Core technologies. Reads data from CoinApi Marketplace through endpoints
-that this API offers such as exchange rates, orders, sales, asset symbols of these currencies.
-A user must successfully register and log in to access other interfaces. The user
-has profile, where he modifies his data. There are two user roles: administrator and simple.
-Admin view user list, delete/modify CoinApi key to authorize requests
-in this API. It has a main home page, which has clickable images that redirect to the interfaces
-application by facilitating the user experience. Application security is achieved through hashing
-password, but also JWT generation with some user data. We use JWT for that
-authorized almost any request in the backend part.
+Having in mind the strugle that cypto users face to have some user-friendly data and also financial institutions 
+to provide easier way for individuals to declare their personal income from cryptocurrencies, we have this idea of the application.
+This RESTful API software architecture integration application is implemented using Angular 12 and .NET Core technologies. 
+Reads data from CoinApi Marketplace through endpoints that this API offers such as exchange rates, orders, sales, asset symbols of these currencies.
+A user must successfully register and log in to access other interfaces. The user has profile, where he modifies his data. There are two user roles: administrator and simple. Admin view user list, delete/modify CoinApi key to authorize requests in this API. It has a main home page, which has clickable images that redirect to the interfaces application by facilitating the user experience. Application security is achieved through hashing password, but also JWT generation with some user data. We use JWT for that authorized almost any request in the backend part.
