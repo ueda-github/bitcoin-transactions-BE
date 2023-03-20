@@ -16,8 +16,11 @@ Distribution of main roles and tasks
 ------------------------------------
 
 Ueda Shehu - Sharing responsibilities within the team, make code review, work on Frontend part
+
 Gerta Duka - Work on backend part, user authentication
+
 Klarisa Gjoka - Crypto APIs research and analysis, work with Gerta to develop backend, Database schema (if needed) and setup
+
 Altea Maloku - Check on best practices of designs, UI/UX, work together with Ueda to implement the frontend
 
 Each of the team members have to work on documenting their respective development. Ueda as a team leader, makes a complete review of it.
