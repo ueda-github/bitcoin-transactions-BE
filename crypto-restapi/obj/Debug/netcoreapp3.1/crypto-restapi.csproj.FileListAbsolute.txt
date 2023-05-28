@@ -269,6 +269,11 @@ C:\Users\User\Desktop\IngSoftware\bitcoin-transactions-BE\crypto-restapi\obj\Deb
 C:\Users\User\Desktop\IngSoftware\bitcoin-transactions-BE\crypto-restapi\obj\Debug\netcoreapp3.1\crypto-restapi.dll
 C:\Users\User\Desktop\IngSoftware\bitcoin-transactions-BE\crypto-restapi\obj\Debug\netcoreapp3.1\crypto-restapi.pdb
 C:\Users\User\Desktop\IngSoftware\bitcoin-transactions-BE\crypto-restapi\obj\Debug\netcoreapp3.1\crypto-restapi.genruntimeconfig.cache
-C:\Users\User\Desktop\IngSoftware\bitcoin-transactions-BE\crypto-restapi\bin\Debug\netcoreapp3.1\Properties\launchSettings.json
-C:\Users\User\Desktop\IngSoftware\bitcoin-transactions-BE\crypto-restapi\obj\Debug\netcoreapp3.1\crypto-restapi.csprojAssemblyReference.cache
-C:\Users\User\Desktop\IngSoftware\bitcoin-transactions-BE\crypto-restapi\obj\Debug\netcoreapp3.1\staticwebassets\crypto-restapi.StaticWebAssets.xml
+C:\Users\User\Desktop\IngSoftware\bitcoin-transactions-BE\crypto-restapi\bin\Debug\netcoreapp3.1\nunit.framework.dll
+C:\Users\User\Desktop\IngSoftware\bitcoin-transactions-BE\crypto-restapi\obj\Debug\netcoreapp3.1\crypto-restapi.csproj.AssemblyReference.cache
+C:\Users\User\Desktop\IngSoftware\bitcoin-transactions-BE\crypto-restapi\obj\Debug\netcoreapp3.1\crypto-restapi.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\User\Desktop\IngSoftware\bitcoin-transactions-BE\crypto-restapi\obj\Debug\netcoreapp3.1\staticwebassets\crypto-restapi.StaticWebAssets.Pack.cache
+C:\Users\User\Desktop\IngSoftware\bitcoin-transactions-BE\crypto-restapi\obj\Debug\netcoreapp3.1\staticwebassets\msbuild.crypto-restapi.Microsoft.AspNetCore.StaticWebAssets.props
+C:\Users\User\Desktop\IngSoftware\bitcoin-transactions-BE\crypto-restapi\obj\Debug\netcoreapp3.1\staticwebassets\msbuild.build.crypto-restapi.props
+C:\Users\User\Desktop\IngSoftware\bitcoin-transactions-BE\crypto-restapi\obj\Debug\netcoreapp3.1\staticwebassets\msbuild.buildMultiTargeting.crypto-restapi.props
+C:\Users\User\Desktop\IngSoftware\bitcoin-transactions-BE\crypto-restapi\obj\Debug\netcoreapp3.1\staticwebassets\msbuild.buildTransitive.crypto-restapi.props
