@@ -53,7 +53,7 @@ Version: 7.0.302
 
 How to set up the project locally
 
-- Clone the project using git clone 
+- Clone the project using git clone https://github.com/ueda-github/bitcoin-transactions-BE.git
 - Install the .NET Core SDK from its official website
 - Open a command prompt or terminal and navigate to the directory where the project is located.
 - Build the project by running "dotnet build"
